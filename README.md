@@ -1,5 +1,5 @@
 # mapagewebnsi
-un dépôt doit héberger page WEB (HTML+CSS+JV?)
+Un dépôt doit héberger une page WEB (HTML+CSS+JV?)
 -----------------------------
 |Jour|Travail|
 |---|---|
